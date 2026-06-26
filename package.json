@@ -25,6 +25,6 @@
   },
   "packageManager": "pnpm@11.8.0",
   "pnpm": {
-    "ignoredBuiltDependencies": ["better-sqlite3", "sharp"]
+    "neverBuiltDependencies": ["better-sqlite3", "sharp"]
   }
 }
