@@ -5,7 +5,16 @@ useSeoMeta({
   title: page.seo.title,
   ogTitle: page.seo.title,
   description: page.seo.description,
-  ogDescription: page.seo.description
+  ogDescription: page.seo.description,
+  ogImage: '/og-image.jpg',
+  ogType: 'website',
+  ogUrl: 'https://portfolio.ichbinbobby.de',
+  ogSiteName: 'ichbinbobby',
+  ogLocale: 'en_US',
+  twitterCard: 'summary_large_image',
+  twitterTitle: page.seo.title,
+  twitterDescription: page.seo.description,
+  twitterImage: '/og-image.jpg'
 })
 </script>
 

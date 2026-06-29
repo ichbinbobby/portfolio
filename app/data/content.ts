@@ -4,7 +4,7 @@ export const page = {
     description: 'Frontend specialist based in Berlin, Germany. 5+ years of Vue.js experience, modernizing legacy web apps at STRATO AG.'
   },
   title: 'Hey, I\'m Bobby – Frontend Developer',
-  description: 'I build fast, accessible web applications with Vue.js. Based in Berlin, crafting clean code and thoughtful UIs since 2017.',
+  description: 'I build fast, accessible web applications with Vue.js. Based in Berlin, crafting clean code and thoughtful UIs since 2020.',
   hero: {
     links: [
       {

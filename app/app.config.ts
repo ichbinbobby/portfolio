@@ -3,7 +3,7 @@ export default defineAppConfig({
     picture: {
       dark: 'https://github.com/ichbinbobby.png',
       light: 'https://github.com/ichbinbobby.png',
-      alt: 'Thanh Binh Nguyen'
+      alt: 'ichbinbobby'
     },
     email: 'thanh-binh.nguyen@strato.de',
     available: true
@@ -33,7 +33,7 @@ export default defineAppConfig({
       },
       {
         'icon': 'i-simple-icons-linkedin',
-        'to': 'https://linkedin.com/in/thanh-binh-nguyen',
+        'to': 'https://www.linkedin.com/in/ichbinbobby/',
         'target': '_blank',
         'aria-label': 'LinkedIn'
       }
